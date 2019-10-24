@@ -6,7 +6,7 @@ output: html_document
 ** **
 
 ##### Prénom Nom Groupe
-
+angar amine / groupe 5
 
 
 ##### Question 1
@@ -15,7 +15,7 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** 240 * (0,98**10)
 
 ##### Question 2
 
@@ -23,7 +23,7 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** **1/16**i pour tout i dans {1,2,3,4}
 
 ##### Question 3
 
@@ -31,7 +31,7 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** 2/3
 
 ##### Question 4
 
@@ -39,7 +39,7 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** 1/3
 
 ##### Question 5
 
@@ -47,7 +47,7 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** 9/13
 
 
 ##### Question 6
@@ -56,7 +56,7 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** exp(-λ+exp(λexp(-u)))-exp(-λ)
 
 
 ##### Question 7
@@ -66,7 +66,7 @@ output: html_document
 
 ###### Réponse : 
 
-** ** 
+** ** Z suit la loi binomiale de paramètres (2n , p) .. son espérance est : 2np 
 
 
 ##### Question 8
@@ -75,7 +75,7 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** Y=Z-X suit la loi binomiale de parametres (n,p) et esperance de Y est : np
 
 
 ##### Question 9
@@ -84,7 +84,7 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** E(XY)= ∑ kE(X)P(Y=k)   " on conditionne sur les differentes valeurs de Y "
 
 ##### Question 10
 
@@ -93,6 +93,6 @@ output: html_document
 ###### Réponse : 
 
 
-** ** 
+** ** var(Z)= npq  et cov(XY)=E(XY) - E(X)E(Y) 
 
 
